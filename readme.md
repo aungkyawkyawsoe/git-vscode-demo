@@ -1,4 +1,2 @@
-# Learning Git in VSCode
-
-- second commit
-- another line
+# Readme
+Another Copy.

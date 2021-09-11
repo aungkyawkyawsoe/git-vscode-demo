@@ -3,7 +3,7 @@
 - Back-End
 - Devops
 
-## Tages
+## Tags
 - Git
 - React
 - JavaScript
