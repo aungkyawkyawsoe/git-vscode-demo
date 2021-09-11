@@ -1,3 +1,9 @@
-about us
-contact us
-shop
+# Categories
+- Front-End
+- Back-End
+- Devops
+
+## Tages
+- Git
+- React
+- JavaScript
